@@ -1,0 +1,4 @@
+Uncaught (in promise)ReferenceError: potions is not defined
+
+Uncaught (in promise)TypeError: _this.$myRequest is not a function
+
